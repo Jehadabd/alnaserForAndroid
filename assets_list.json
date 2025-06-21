@@ -1,0 +1,34 @@
+[
+  {
+    "name": "fonts",
+    "path": "assets/fonts",
+    "sha": "2c285a256d65ccf3069d04afcc32b33fe76e983b",
+    "size": 0,
+    "url": "https://api.github.com/repos/Jehadabd/bebet/contents/assets/fonts?ref=main",
+    "html_url": "https://github.com/Jehadabd/bebet/tree/main/assets/fonts",
+    "git_url": "https://api.github.com/repos/Jehadabd/bebet/git/trees/2c285a256d65ccf3069d04afcc32b33fe76e983b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Jehadabd/bebet/contents/assets/fonts?ref=main",
+      "git": "https://api.github.com/repos/Jehadabd/bebet/git/trees/2c285a256d65ccf3069d04afcc32b33fe76e983b",
+      "html": "https://github.com/Jehadabd/bebet/tree/main/assets/fonts"
+    }
+  },
+  {
+    "name": "icon",
+    "path": "assets/icon",
+    "sha": "3948b38d4ae0c60948d5caecc2ceb2882f4b5b09",
+    "size": 0,
+    "url": "https://api.github.com/repos/Jehadabd/bebet/contents/assets/icon?ref=main",
+    "html_url": "https://github.com/Jehadabd/bebet/tree/main/assets/icon",
+    "git_url": "https://api.github.com/repos/Jehadabd/bebet/git/trees/3948b38d4ae0c60948d5caecc2ceb2882f4b5b09",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Jehadabd/bebet/contents/assets/icon?ref=main",
+      "git": "https://api.github.com/repos/Jehadabd/bebet/git/trees/3948b38d4ae0c60948d5caecc2ceb2882f4b5b09",
+      "html": "https://github.com/Jehadabd/bebet/tree/main/assets/icon"
+    }
+  }
+]
